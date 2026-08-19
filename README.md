@@ -15,113 +15,112 @@ I have hands-on experience working with Excel, SQL, Power BI, and Python for dat
 
 
 ## 🛠️ Skills & Tools
-## 📊 Data Analysis & Visualization
-## Microsoft Excel
-## Power BI
-## Tableau
-## Pivot Tables & Pivot Charts
-## Dashboard Development
-## Data Visualization
-## Data Cleaning & Validation
+* 📊 Data Analysis & Visualization
+* Microsoft Excel
+* Power BI
+* Tableau
+* Pivot Tables & Pivot Charts
+* Dashboard Development
+* Data Visualization
+* Data Cleaning & Validation
 
 ## 🗄️ SQL
-## SELECT, WHERE, ORDER BY
-## GROUP BY & HAVING
-## Aggregate Functions
-## JOINs
-Subqueries
-CTEs
-Window Functions
-CASE Statements
+* SELECT, WHERE, ORDER BY
+* GROUP BY & HAVING
+* Aggregate Functions
+* JOINs
+* Subqueries
+* CTEs
+* Window Functions
+* CASE Statements
 
 ## 🐍 Python
-Python
-Pandas
-NumPy
-Data Cleaning
-Exploratory Data Analysis
+* Python
+* Pandas
+* NumPy
+* Data Cleaning
+* Exploratory Data Analysis
 
 ## 📋 Excel
-Advanced Excel
-Pivot Tables
-Power Query
-VLOOKUP
-INDEX & MATCH
-SUMIFS
-COUNTIFS
-AVERAGEIFS
-Conditional Formatting
-Charts & Dashboards
+* Advanced Excel
+* Pivot Tables
+* Power Query
+* VLOOKUP
+* INDEX & MATCH
+* SUMIFS
+* COUNTIFS
+* AVERAGEIFS
+* Conditional Formatting
+* Charts & Dashboards
 
 
 ## 📂 Featured Projects
 
-## 🏦 Bank Loan Analysis – Excel
+*  🏦 Bank Loan Analysis – Excel
 
-Tools: Microsoft Excel, Pivot Tables, Power Query, Charts
-Analyzed bank loan data to understand loan performance, borrower characteristics, loan purposes, repayment status, and overall lending trends.
+* Tools: Microsoft Excel, Pivot Tables, Power Query, Charts
+* Analyzed bank loan data to understand loan performance, borrower characteristics, loan purposes, repayment status, and overall lending trends.
 
-Key Areas:
-Data cleaning and preparation
-Loan status analysis
-Loan amount analysis
-Borrower segmentation
-Loan purpose analysis
-Pivot table analysis
-Interactive Excel dashboard
+* Key Areas:
+* Data cleaning and preparation
+* Loan status analysis
+* Loan amount analysis
+* Borrower segmentation
+* Loan purpose analysis
+* Pivot table analysis
+* Interactive Excel dashboard
 
 
 ## 📱 Mobile Sales Dashboard – Power BI
 
-Tools: Power BI, Power Query, DAX
-Created an interactive dashboard to analyze mobile phone sales performance and identify important business trends.
+* Tools: Power BI, Power Query, DAX
+* Created an interactive dashboard to analyze mobile phone sales performance and identify important business trends.
 
-Key Areas:
-Total sales analysis
-Quantity sold
-Sales by brand
-Sales by model
-Sales by payment method
-Geographic analysis
-Monthly sales trends
-KPI dashboard
+* Key Areas:
+* Total sales analysis
+* Quantity sold
+* Sales by brand
+* Sales by model
+* Sales by payment method
+* Geographic analysis
+* Monthly sales trends
+* KPI dashboard
 
 
 ## 📜 Certifications
-🏆 Advanced Excel – IT Vedant Pvt. Ltd.
-🏆 Power BI Essential – IT Vedant Pvt. Ltd.
-🏆 SQL Mastery – IT Vedant Pvt. Ltd.
-🏆 Tableau Essential – IT Vedant Pvt. Ltd.
-🏆 Python for Data Science – IBM
+* 🏆 Advanced Excel – IT Vedant Pvt. Ltd.
+* 🏆 Power BI Essential – IT Vedant Pvt. Ltd.
+* 🏆 SQL Mastery – IT Vedant Pvt. Ltd.
+* 🏆 Tableau Essential – IT Vedant Pvt. Ltd.
+* 🏆 Python for Data Science – IBM
 
 
 ## 📈 What I Can Do
-Raw Data
+* Raw Data
     ↓
-Data Cleaning
+* Data Cleaning
     ↓
-Data Transformation
+* Data Transformation
     ↓
-Data Analysis
+* Data Analysis
     ↓
-Data Visualization
+* Data Visualization
     ↓
-Business Insights
-
-I focus on turning raw datasets into clear reports, dashboards, and actionable business insights.
+* Business Insights
+* I focus on turning raw datasets into clear reports, dashboards, and actionable business insights.
 
 
 ## 🌱 Currently Learning
-Advanced SQL
-Python for Data Analysis
-Advanced Power BI & DAX
-Data Visualization
-Business Analytics
-Real-world Data Analytics Projects
+* Advanced SQL
+* Python for Data Analysis
+* Advanced Power BI & DAX
+* Data Visualization
+* Business Analytics
+* Real-world Data Analytics Projects
 
 
 ## 🤝 Let's Connect
-I'm open to opportunities and collaborations related to Data Analytics, Business Analytics, MIS, and Reporting.
-📧 Email: kanaujiasakshi96@gmail.com
-💼 LinkedIn: www.linkedin.com/in/sakshi-kanaujia-a68b79319
+* I'm open to opportunities and collaborations related to Data Analytics, Business Analytics, MIS, and Reporting.
+* 📧 Email: kanaujiasakshi96@gmail.com
+* 💼 LinkedIn: www.linkedin.com/in/sakshi-kanaujia-a68b79319
 
