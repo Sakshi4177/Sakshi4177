@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Sakshi Kanaujia
+Hi 👋, I'm Sakshi Kanaujia
 📊 Data Analyst | Excel | SQL | Power BI | Python
 
 I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights that support better business decisions.
