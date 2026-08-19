@@ -6,29 +6,29 @@ I have hands-on experience working with Excel, SQL, Power BI, and Python for dat
 
 
 ## 👩‍💻 About Me
-🔍 Interested in Data Analytics, Business Analytics & MIS
-📊 Skilled in Microsoft Excel, SQL, Power BI & Python
-🧹 Experienced in Data Cleaning, Data Validation & Data Analysis
-📈 Interested in creating interactive dashboards and business reports
-💡 Currently improving my skills in advanced SQL, Python for data analysis, and Power BI
-🎯 Looking for opportunities as a Data Analyst / MIS Executive / Business Analyst
+* 🔍 Interested in Data Analytics, Business Analytics & MIS
+* 📊 Skilled in Microsoft Excel, SQL, Power BI & Python
+* 🧹 Experienced in Data Cleaning, Data Validation & Data Analysis
+* 📈 Interested in creating interactive dashboards and business reports
+* 💡 Currently improving my skills in advanced SQL, Python for data analysis, and Power BI
+* 🎯 Looking for opportunities as a Data Analyst / MIS Executive / Business Analyst
 
 
 ## 🛠️ Skills & Tools
-📊 Data Analysis & Visualization
-Microsoft Excel
-Power BI
-Tableau
-Pivot Tables & Pivot Charts
-Dashboard Development
-Data Visualization
-Data Cleaning & Validation
+## 📊 Data Analysis & Visualization
+## Microsoft Excel
+## Power BI
+## Tableau
+## Pivot Tables & Pivot Charts
+## Dashboard Development
+## Data Visualization
+## Data Cleaning & Validation
 
 ## 🗄️ SQL
-SELECT, WHERE, ORDER BY
-GROUP BY & HAVING
-Aggregate Functions
-JOINs
+## SELECT, WHERE, ORDER BY
+## GROUP BY & HAVING
+## Aggregate Functions
+## JOINs
 Subqueries
 CTEs
 Window Functions
