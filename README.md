@@ -1,11 +1,11 @@
-Hi 👋, I'm Sakshi Kanaujia
+## Hi 👋, I'm Sakshi Kanaujia
 📊 Data Analyst | Excel | SQL | Power BI | Python
 
 I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights that support better business decisions.
 I have hands-on experience working with Excel, SQL, Power BI, and Python for data cleaning, analysis, visualization, and reporting. I enjoy exploring datasets, identifying trends, building dashboards, and solving business problems using data.
 
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 🔍 Interested in Data Analytics, Business Analytics & MIS
 📊 Skilled in Microsoft Excel, SQL, Power BI & Python
 🧹 Experienced in Data Cleaning, Data Validation & Data Analysis
@@ -14,7 +14,7 @@ I have hands-on experience working with Excel, SQL, Power BI, and Python for dat
 🎯 Looking for opportunities as a Data Analyst / MIS Executive / Business Analyst
 
 
-🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 📊 Data Analysis & Visualization
 Microsoft Excel
 Power BI
@@ -24,7 +24,7 @@ Dashboard Development
 Data Visualization
 Data Cleaning & Validation
 
-🗄️ SQL
+## 🗄️ SQL
 SELECT, WHERE, ORDER BY
 GROUP BY & HAVING
 Aggregate Functions
@@ -34,14 +34,14 @@ CTEs
 Window Functions
 CASE Statements
 
-🐍 Python
+## 🐍 Python
 Python
 Pandas
 NumPy
 Data Cleaning
 Exploratory Data Analysis
 
-📋 Excel
+## 📋 Excel
 Advanced Excel
 Pivot Tables
 Power Query
@@ -54,9 +54,9 @@ Conditional Formatting
 Charts & Dashboards
 
 
-📂 Featured Projects
+## 📂 Featured Projects
 
-🏦 Bank Loan Analysis – Excel
+## 🏦 Bank Loan Analysis – Excel
 
 Tools: Microsoft Excel, Pivot Tables, Power Query, Charts
 Analyzed bank loan data to understand loan performance, borrower characteristics, loan purposes, repayment status, and overall lending trends.
@@ -71,7 +71,7 @@ Pivot table analysis
 Interactive Excel dashboard
 
 
-📱 Mobile Sales Dashboard – Power BI
+## 📱 Mobile Sales Dashboard – Power BI
 
 Tools: Power BI, Power Query, DAX
 Created an interactive dashboard to analyze mobile phone sales performance and identify important business trends.
@@ -87,7 +87,7 @@ Monthly sales trends
 KPI dashboard
 
 
-📜 Certifications
+## 📜 Certifications
 🏆 Advanced Excel – IT Vedant Pvt. Ltd.
 🏆 Power BI Essential – IT Vedant Pvt. Ltd.
 🏆 SQL Mastery – IT Vedant Pvt. Ltd.
@@ -95,7 +95,7 @@ KPI dashboard
 🏆 Python for Data Science – IBM
 
 
-📈 What I Can Do
+## 📈 What I Can Do
 Raw Data
     ↓
 Data Cleaning
@@ -111,7 +111,7 @@ Business Insights
 I focus on turning raw datasets into clear reports, dashboards, and actionable business insights.
 
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 Advanced SQL
 Python for Data Analysis
 Advanced Power BI & DAX
@@ -120,7 +120,7 @@ Business Analytics
 Real-world Data Analytics Projects
 
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 I'm open to opportunities and collaborations related to Data Analytics, Business Analytics, MIS, and Reporting.
 📧 Email: kanaujiasakshi96@gmail.com
 💼 LinkedIn: www.linkedin.com/in/sakshi-kanaujia-a68b79319
