@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Sakshi Kanaujia
 📊 Data Analyst | Excel | SQL | Power BI | Python
 
-I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights that support better business decisions.
+Currently working as a Data Analyst at Masthead Technologies Private Limited, passionate about transforming raw data into meaningful insights that support better business decisions.
 I have hands-on experience working with Excel, SQL, Power BI, and Python for data cleaning, analysis, visualization, and reporting. I enjoy exploring datasets, identifying trends, building dashboards, and solving business problems using data.
 
 
